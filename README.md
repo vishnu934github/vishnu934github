@@ -4,9 +4,9 @@
 
 
 
--  I’m currently working on **Telecom Project**
+-  I have Hands-on Practice on Autocad, Solidworks, NX, Catia, Creo
 
--  I’m currently learning **JavaScript Language**
+-  I have Good Knowledge of GD&T, Engg Drawing, Manufacturing Processes, Tool Design, Machining Processes.
 
 -  Email ID **vishnu.ubale934@gmail.com**
 
