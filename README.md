@@ -1,6 +1,6 @@
 ![logo](https://github.com/vishnu934github/vishnu934github/blob/main/img2.jpg)
 <h1 align="center">Hi , I'm Vishnu Ubale</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">Mechanical Design Engineer</h3>
 
 
 
